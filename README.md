@@ -16,6 +16,8 @@ The `random` module, essential for 'Mystery Numbers: The Python Guessing Game,' 
 
 
 ### Demo
+<img width="267" alt="MN" src="https://github.com/user-attachments/assets/921fe949-47eb-4e26-8d7f-e5d23a5327eb">
+
 
 
 
